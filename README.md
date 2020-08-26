@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # burger-app
 
 # Node Express Handlebars
