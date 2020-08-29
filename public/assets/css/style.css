@@ -1,20 +1,39 @@
+body{
+  background-image: url("img/kissclipart-stock-photography-royalty-free-3c13cd832e68bb90.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1,h2{
+  text-align: center; 
+}
 
 li {
+  text-align: center;
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    /* background: #faebd7; */
   }
   
   .label {
+    text-align: center;
     font-weight: bold;
   }
   
   .create-form {
+    text-align: center;
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    /* background: #faebd7; */
   }
   
   .form-group {
+    text-align: center;
     margin-bottom: 5px;
+  }
+
+  button{
+    background-color: aqua;
+    font-style: bold;
+    border-radius: 10%;
   }
