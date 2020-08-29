@@ -60,7 +60,7 @@ All files and directories look like the following structure:
         └── main.handlebars
 
 ```
-### Screenshots
+### Screenshot
 * ![Screenshot (227)](https://user-images.githubusercontent.com/63365781/91646353-35c04b80-ea1c-11ea-92ed-c456abe37938.png)
 
 ### Links
