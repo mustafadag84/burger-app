@@ -17,7 +17,7 @@ In this assignment, I created a burger logger with MySQL, Node, Express, Handleb
 
 * [Check out this video of the app for a run-through of how it works](https://drive.google.com/file/d/1JAfKCsFsciCzCfS0CqcLSZn3nBd4Yfco/view).
 
-* Please see [deployed Heroku link](https://dashboard.heroku.com/apps/afternoon-shore-60190) for more details.
+* Please see [deployed Heroku link](https://afternoon-shore-60190.herokuapp.com/) for more details.
 
 
 ### Directory structure
